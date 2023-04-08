@@ -4,7 +4,7 @@ with open("README.md", "r",encoding="utf-8") as f:
     
 setuptools.setup(
     name = "cbmc",
-    version = "0.0.1",
+    version = "0.0.2",
     author = "Hans",
     author_email="ccoccc14@gmail.com",
     description="麥塊匿名發文平台 api for python",
