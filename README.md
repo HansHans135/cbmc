@@ -1,5 +1,5 @@
 # cbmc
-麥塊匿名發文平台 api for python
+<非官方> 麥塊匿名發文平台 api for python
 
 # 安裝
 ```
